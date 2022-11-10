@@ -1,0 +1,25 @@
+FEATURES
+# Multiplayer: true
+# Colaborativo: ?
+# Multilevel: ?
+# Boss: ?
+# Enemies: ?
+# 2D or 3D: ?
+
+TODO
+# Definir la esencia del juego.
+# Definir los tópicos listados en FEATURES.
+# Ideas de Omar.
+# Ideas de David.
+# Elegir idea.
+
+IDEAS
+# Andrea:
+1. BOSS ORIENTED GAME:
+  Graficos: 3D.
+  Servidor: 3 rooms. Es decir, mostrar un menú con las 3 habitaciones disponibles: 1.[x] 2.[x] 3.[]
+  Niveles:  1 solo nivel por habitación; ejemplo: 1.[Dragon] 2.[Zombies] 3.[Alien]
+  Objetivo: Vencer al boss mientras se lucha con diversos enemigos.
+  Modo:     Colaborativo.
+  Ganador:  Los 2 sobrevivientes con más putaje que maten al boss.
+  Puntaje:  Por daño al jefe y por asesinato de enemigos.
