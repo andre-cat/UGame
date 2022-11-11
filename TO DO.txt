@@ -24,4 +24,16 @@ IDEAS
   Ganador:  Los 2 sobrevivientes con más putaje que maten al boss.
   Puntaje:  Por daño al jefe y por asesinato de enemigos.
 
-oa
+2. David:
+Graficos:3D
+Niveles:1
+Tema:accion & Multiplayer(mission oriented)
+timeline: contemporary(Que epoca de va a desarrollar el video juego)
+puntaje: puntaje por jugador(cuantos enemigos derrote en la mision)
+         puntaje por equipo ( enemigos derrotadas y misiones completadas en el nivel)
+enemies:Mosters or (Zombies)
+game_main_propouse: having fun and generate strategies 
+winner : the team that completes the final mission
+rank: table that clasifies the rate of sucesss of different teams
+
+
