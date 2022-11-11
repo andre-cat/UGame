@@ -23,3 +23,5 @@ IDEAS
   Modo:     Colaborativo.
   Ganador:  Los 2 sobrevivientes con más putaje que maten al boss.
   Puntaje:  Por daño al jefe y por asesinato de enemigos.
+
+oa
